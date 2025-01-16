@@ -1,0 +1,3 @@
+Files were used from the implementation by the GitHub user : techtribeyt
+Link for the files: https://github.com/techtribeyt/Wordle/tree/main
+No other code was used from this source other than the word list files
