@@ -29,7 +29,7 @@ def main():
     
     # Choose a random word from the list of possible answers
     answer = choice(answers)
-    answer = 'words' # For testing purposes, test with slate, house, award, words
+    # answer = 'words' # For testing purposes, test with slate, house, award, words
     
     # For loop execution
     running = True 
